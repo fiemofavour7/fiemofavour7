@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/favour-fiemotongha-7a6174187"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I have intrest in cybersecurity and ive completed some courses and certificates including Google Cybersecurity Certificate from Cousera and Qualys VM from Qualys.
+I have intrest in cybersecurity and ive completed some courses and certificates including Google Cybersecurity Certificate from Cousera and Qualys VM Foundation from Qualys.
 
 ## Objective
 
